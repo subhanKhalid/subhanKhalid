@@ -1,3 +1,5 @@
 # Hi there 👋
 
-I'm a Software QA Engineer improving the quality of software through test automation. 😉
+QA Engineer(software tester 😉)
+
+I run a [Blog](https://duckduckgo.com) too...
