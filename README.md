@@ -1,5 +1,5 @@
-# Hi there 👋
+# Hey 👋
 
-QA Engineer(software tester 😉)
+Software Tester 
 
-I run a [Blog](https://duckduckgo.com) too...
+I run a [Blog](https://subhannkhalid.com) too...
